@@ -1,2 +1,2 @@
-# VeriYap-lar-VeAlgoritmalarProjesi1
+# VeriYapilariVeAlgoritmalarProjesi1
 İnsertion Sort Örneği
