@@ -41,7 +41,7 @@ Best Case: Aradığımız sayının dizinin en başında olması --> O(n)
 ----------------------------------------
 
 1. adımda sıralaması değişeceği için average case’dir.
-2. 
+ 
 # 2. Örnek 
 
 ---------------------------------------
